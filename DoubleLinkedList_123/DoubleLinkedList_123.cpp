@@ -133,3 +133,6 @@ void DoubleLinkedList::revtraverse() {
 		}
 	}
 }
+
+void DoubleLinkedList::hapus() {
+}
