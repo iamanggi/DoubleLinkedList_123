@@ -165,3 +165,12 @@ void DoubleLinkedList::searchData() {
 		cout << "\nNama: " << curr->name << endl;
 	}
 }
+
+int main() {
+	DoubleLinkedList obj;
+	while (true) {
+		try {
+
+		}
+	}
+}
