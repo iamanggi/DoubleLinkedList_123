@@ -170,7 +170,15 @@ int main() {
 	DoubleLinkedList obj;
 	while (true) {
 		try {
-
+			cout << "\nmenu" << endl;
+			cout << "1. add a record to the list" << endl;
+			cout << "2. delete a record form the list" << endl;
+			cout << "3.view all records" << endl;
+			cout << "4. view all records in the revtraverse order of roll numbers" << endl;
+			cout << "5. search for a record  in the list" << endl;
+			cout << "6. exit" << endl;
+			cout << "\nEnter your choice (1-6): ";
+			char ch;
 		}
 	}
 }
