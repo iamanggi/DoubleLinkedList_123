@@ -179,6 +179,7 @@ int main() {
 			cout << "6. exit" << endl;
 			cout << "\nEnter your choice (1-6): ";
 			char ch;
+			cin >> ch;
 		}
 	}
 }
